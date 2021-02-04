@@ -2,14 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#Build Date</key>
-	<string>2-2-2021</string>
-	<key>#Maker by</key>
-	<string>爱玩黑果的小姐姐</string>
-	<key>#OpenCore Version</key>
-	<string>v0.6.6 DEV</string>
-	<key>#Posted on</key>
-	<string>黑果小兵的部落阁 https://blog.daliansky.net</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -998,7 +990,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C07814501CDKXPGFB</string>
+			<string>C07825100J9KXPGAD</string>
 			<key>ProcessorType</key>
 			<integer>1801</integer>
 			<key>ROM</key>
@@ -1010,9 +1002,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07WJ0C8JYVX</string>
+			<string>C07WWPY3JYVX</string>
 			<key>SystemUUID</key>
-			<string>BF24A49E-CA1F-424D-B8F3-44BFACFE2553</string>
+			<string>A968A120-8F0C-4B34-B8AC-E8BD0AAB6A13</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
