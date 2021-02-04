@@ -1,0 +1,1 @@
+# GA-B150M-HD3-DDR3-QNCT-UHD630-opencore-BigSur
